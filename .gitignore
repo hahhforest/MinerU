@@ -37,3 +37,5 @@ ocr_demo
 /magic_pdf/config/__init__.py
 source.dev.env
 
+# local files
+Dockerfile_beihai
