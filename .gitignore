@@ -39,3 +39,4 @@ source.dev.env
 
 # local files
 Dockerfile_beihai
+magic_pdf.egg-info/
